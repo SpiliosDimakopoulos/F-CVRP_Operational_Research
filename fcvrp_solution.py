@@ -1,8 +1,7 @@
 """
 F-CVRP Solver
-Team: Κώστας, Μαρία, Γιώργος
-Course: Αλγόριθμοι Βελτιστοποίησης
-Date: May 12, 2025
+Team: Σπήλιος, Γιάννης, Γιώργος
+Course: ΘΕΕΣΑ
 
 This program solves the Family Capacitated Vehicle Routing Problem (F-CVRP).
 """

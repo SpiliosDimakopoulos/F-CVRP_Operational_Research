@@ -1,10 +1,10 @@
 # Family Capacitated Vehicle Routing Problem (F-CVRP) Solver
 
-Hey there! 👋 This is our solution for the F-CVRP problem we worked on for our Operations Research course. We tried to make it as efficient as possible while keeping it easy to understand.
+Hey there! This is our solution for the F-CVRP problem we worked on for our Operations Research course. 
 
-## What's This All About?
+The problem we have to solve: imagine you're running a delivery service but your customers are organized into "families" like neighborhoods or groups. You need to visit a specific number of customers from each family and your delivery trucks have limited space!
 
-So, we had this cool problem to solve: imagine you're running a delivery service, but with a twist! Your customers are organized into "families" (like neighborhoods or groups), and you need to visit a specific number of customers from each family. Oh, and your delivery trucks have limited space, so you can't overload them!
+The problem we will solve is a delivery service but your customers are organized into "families" like neighborhoods or groups. You need to visit a specific number of customers from each family and your delivery trucks have limited space!
 
 ## How We Solved It
 
@@ -35,18 +35,11 @@ Just open your terminal and type:
 python main.py
 ```
 
-That's it! The program will:
+The program will:
 1. Read the problem from `fcvrp_P-n101-k4_10_3_3.txt`
 2. Generate and improve the solution
 3. Save it to `solution_example.txt`
 4. Show you all the details about the routes, costs, and family visits
-
-## What We Learned
-
-- Making good initial solutions is super important!
-- Sometimes the simplest improvements can make a big difference
-- It's really satisfying when you find a better route 😊
-- Having a clear main program (`main.py`) makes it easier to understand what's happening
 
 ## The Team
 
